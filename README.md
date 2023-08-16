@@ -9,7 +9,9 @@
 
 - 🤝 I’m looking for help with [TO-LET](https://github.com/kanhapatil/TO-LET)
 
-- 💬 Ask me about **React, Django, Data science & machine learning.**
+- 🎯 Join me for 100 days of DSA! Follow my progress: [GitHub Repo](https://github.com/kanhapatil/100-days-of-DSA) 🚀
+
+- 💬 Ask me about **React || Django & Django Rest Framework || Data science & machine learning.**
 
 - 📫 How to reach me **kanhap569@gmail.com**
 
