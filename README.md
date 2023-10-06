@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kanha Patil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align='right' alt='Coding' width='450' src='https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif' />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanhapatil&label=Profile%20views&color=0e75b6&style=flat" alt="kanhapatil" /> </p>
