@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [TO-LET](https://github.com/kanhapatil/TO-LET)
 
-- 🎯 Join me for 100 days of DSA! Follow my progress: [GitHub Repo](https://github.com/kanhapatil/100-days-of-DSA) 🚀
+- 🎯 Join me for 180 days of DSA! Follow my progress: [GitHub Repo](https://github.com/kanhapatil/DSA-HomeWork) 🚀
 
 - 💬 Ask me about **React || Django & Django Rest Framework || Data science & machine learning.**
 
