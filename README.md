@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Js & Django framework.**
 
-- 🤝 I’m looking for help with [TO-LET](https://github.com/kanhapatil/TO-LET)
+- 🤝 I’m looking for help with [booKStore](https://github.com/kanhapatil/booKStore)
 
 - 🎯 Join me for 180 days of DSA! Follow my progress: [GitHub Repo](https://github.com/kanhapatil/DSA-HomeWork) 🚀
 
