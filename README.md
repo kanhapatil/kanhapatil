@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanhapatil&label=Profile%20views&color=0e75b6&style=flat" alt="kanhapatil" /> </p>
 
-- 🌱 I’m currently learning **React Js & Django framework.**
+- 🌱 I’m currently working with **React/Next Js & Django/Django Rest Framework.**
 
 - 🤝 I’m looking for help with [booKStore](https://github.com/kanhapatil/booKStore)
 
 - 🎯 Join me for 180 days of DSA! Follow my progress: [GitHub Repo](https://github.com/kanhapatil/DSA-HomeWork) 🚀
 
-- 💬 Ask me about **React || Django & Django Rest Framework || Data science & machine learning.**
+- 💬 Ask me about **React/Next || Django & Django Rest Framework || Data science & machine learning.**
 
 - 📫 How to reach me **kanhap569@gmail.com**
 
